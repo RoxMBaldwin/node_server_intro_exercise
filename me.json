@@ -1,0 +1,20 @@
+{
+  "full-name": "Roxanne Baldwin",
+  "description": "Space||Legs",
+  "pets": [
+    {
+      "name": "Gus",
+      "breed": "Corgi",
+      "nickname": "WaggyWaggy"
+    }
+  ],
+  "favorite": [
+    {
+      "color": "black",
+      "animal": "saltwater crocodile",
+      "music": "psych rock",
+      "show": "StarTrek TOS",
+      "movie": "Princess Mononoke"
+    }
+  ]
+}
