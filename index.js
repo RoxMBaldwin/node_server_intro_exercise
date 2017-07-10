@@ -15,7 +15,7 @@ server.get('/roxy', function(request, response) {
 
 server.get('*', function(request, response) {
   response.status(400)
-  response.send('Please enter /roxy after Localhost:3000')
+  response.send('Please enter /roxy after the address')
 })
 
 
